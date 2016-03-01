@@ -1,0 +1,9 @@
+li a {
+    color: #FFFFFF;
+}
+body {
+    background: white url("images/fon.jpg") no-repeat right bottom;
+}
+link  {
+	icon:url("images/favicon.jpg");
+}
